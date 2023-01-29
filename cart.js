@@ -52,7 +52,7 @@ function addItemToCart (price, imageSrc) {
   
   for (var i = 0; i < cartImage.length; i++){
     if (cartImage[i].src == imageSrc){
-      alert ('This item has already been added to the cart')
+      alert ('Данный товар уже находится в корзине')
       return;
     }
   }
