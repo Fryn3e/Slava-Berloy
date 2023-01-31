@@ -33,10 +33,11 @@ body {
 	text-decoration: none;
 	list-style-type: none;
 	gap: 20px;
-	padding: 0 10%;
+	margin: 0 10%;
+	padding: 20px;
 	text-align: left;
 	word-break: keep-all;
-	font-weight: 400;
+	/* font-weight: 400; */
 }
 .header-wrappers {
 	display: flex;
